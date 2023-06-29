@@ -1,0 +1,5 @@
+Enter number count: Enter bin count: max:6
+min:1
+
+
+max_count 5
